@@ -1,6 +1,12 @@
 ## Ola! Meu nome é Vitor Paz, e é um prazer ter você por aqui!
+<div>
+  <a href = "mailto:mkg.vitorpaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitorpaz20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br>
 
-![Vitor Paz GitHub status](https://github-readme-stats.vercel.app/api?username=VitorPaz8&show_icons=true&theme=gruvbox)
+
+![GitHub status](https://github-readme-stats.vercel.app/api?username=VitorPaz8&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPaz8&layout=compact&theme=gruvbox)
 
 ## Tecnologias que uso no meu dia a dia
 
