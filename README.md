@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Vitor Paz
+Hi, I’m Vitor Paz
