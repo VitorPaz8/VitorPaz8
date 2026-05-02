@@ -45,6 +45,10 @@ In addition to backend, I've contributed to real-world frontend projects using A
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo" title="Jest" />
   <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="45" alt="JUnit logo" title="JUnit" />
+  <img width="1" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Apache_Camel_Logo_2.svg" height="45" alt="Apache Camel" title="Apache Camel" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" title="Docker" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" title="Git" />
@@ -58,10 +62,6 @@ In addition to backend, I've contributed to real-world frontend projects using A
   <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angular logo" title="Angular" />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" title="React" />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="45" alt="JUnit logo" title="JUnit" />
-  <img width="1" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Apache_Camel_Logo_2.svg" height="45" alt="Apache Camel" title="Apache Camel" />
 </div>
 
 ---
