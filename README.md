@@ -38,25 +38,19 @@ In addition to backend, I've contributed to real-world frontend projects using A
 
 ## Languages and Tools
 
-<div style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;">
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Apache_Camel_Logo_2.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=jest" width="40" height="40"/>
-  </div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker logo" title="Docker" />
-    <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40"/>
-  </div>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  </div>
+<div>
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Apache_Camel_Logo_2.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jest" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker logo" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
 </div>
 
 ---
