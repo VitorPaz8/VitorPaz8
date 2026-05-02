@@ -38,19 +38,30 @@ In addition to backend, I've contributed to real-world frontend projects using A
 
 ## Languages and Tools
 
-<div>
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Apache_Camel_Logo_2.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jest" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="docker logo" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=angular" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" title="Java" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo" title="Spring" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo" title="Jest" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" title="Docker" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" title="Git" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" title="MongoDB" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="45" alt="rabbitmq logo" title="RabbitMQ" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo" title="TypeScript" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="angular logo" title="Angular" />
+  <img width="1" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" title="React" />
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="45" alt="JUnit logo" title="JUnit" />
+  <img width="1" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Apache_Camel_Logo_2.svg" height="45" alt="Apache Camel" title="Apache Camel" />
 </div>
 
 ---
